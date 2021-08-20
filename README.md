@@ -1,2 +1,2 @@
 # VIP@AINEAI
-Virtual Internship Program @ AINE.AI
+Virtual Internship Program by AINE.AI
