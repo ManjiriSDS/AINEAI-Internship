@@ -1,10 +1,9 @@
-# VIP@AINEAI
-Virtual Internship Program by AINE.AI
+VIPAINEAI
 
-| Sr No. | Project | Description | Problem Statement | Status |
+| Sr No. | Project | Description | Objectives | Status |
 | --- | :---: | --- | --- | --- |
-| | **BEGINNER** |
-| 1 | Data Manipulation & Visualization Using Python | <ul><li> Creating Visuals & Charts using Python Libraries </li> <li> This is the simple Linear Regression task as it involve just 2 variables. </li> | What will be predicted score if a student studies for 9.25 hrs/ day? | &#9745; |
+| | **INTERMEDIATE** |
+| 1 | Data Manipulation & Visualization Using Python | <ul><li> Creating Visuals & Charts Using Python Libraries. </li> | Performing Data Manipulation and visualization techniques using Python to clean, transform and visualize different datasets. | &#9745; |
 | 2 | Prediction Using Unsupervised ML | <ul><li> Iris Dataset </li> | From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually. |&#9745; |
 | | **INTERMEDIATE** | 
 | 3 | Prediction Using Decision Tree Algorithm | <ul><li> Create the Decision Tree classifier and visualize it graphically. </li> | If we feed any new data to this classifier, it would be able to predict the right class accordingly. | &#9745; |
