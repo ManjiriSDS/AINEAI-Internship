@@ -4,9 +4,10 @@ VIPAINEAI
 | --- | :---: | --- | --- | --- |
 | | **INTERMEDIATE** |
 | 1 | Data Manipulation & Visualization Using Python | <ul><li> Creating Visuals & Charts Using Python Libraries. </li> | Performing Data Manipulation and visualization techniques using Python to clean, transform and visualize different datasets. | &#9745; |
-| 2 | Prediction Using Unsupervised ML | <ul><li> Iris Dataset </li> | From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually. |&#9745; |
+| | **BEGINNER** | 
+| 2 | Essential of Python Programming | <ul><li> The project leverages the basic concept of Python programming  such as variable data types, loops and conditional statements to develop the game of Rock, Paper and Scissors </li> | Write a Python program to develop a Rock, Papers and Scissors game to be played against a computer.|&#9745; |
 | | **INTERMEDIATE** | 
-| 3 | Prediction Using Decision Tree Algorithm | <ul><li> Create the Decision Tree classifier and visualize it graphically. </li> | If we feed any new data to this classifier, it would be able to predict the right class accordingly. | &#9745; |
+| 3 | Statistical Analysis & Hypothesis Testing | <ul><li> Increasing YoY revenue from game purchase by increasing retention rate gamers </li> | What recommendations can you suggest increasing in-game purchase and retaining the players? | &#9745; |
 | | **ADVANCED** | 
-| 4 | Exploratory Data Analysis - Sports | <ul><li> Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’. </li> |  As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. Suggest teams or players a company should endorse for its products.| &#9745; |
+| 4 | Machine Learning for Predictive Analysis | <ul><li> Reducing Monthly Churn by identifying high risk customers well in advance. </li> | Build a classification Model to predict churners one month in advance| &#9745; |
 
