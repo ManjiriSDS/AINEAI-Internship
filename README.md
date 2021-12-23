@@ -9,5 +9,6 @@ VIPAINEAI
 | | **INTERMEDIATE** | 
 | 3 | Statistical Analysis & Hypothesis Testing | <ul><li> Increasing YoY revenue from game purchase by increasing retention rate gamers </li> | What recommendations can you suggest increasing in-game purchase and retaining the players? | &#9745; |
 | | **ADVANCED** | 
-| 4 | Machine Learning for Predictive Analysis | <ul><li> Reducing Monthly Churn by identifying high risk customers well in advance. </li> | Build a classification Model to predict churners one month in advance| &#9744; |
+| 4 | Machine Learning for Predictive Analysis | <ul><li> Reducing Monthly Churn by identifying high risk customers well in advance. </li> | Build a classification Model to predict churners one month in advance.| &#9744; |
+| 5 | Image Classification Using Deep Learning | <ul><li> Classifying Covid-19 Positive and negative patient from X-ray images. </li> | With the Chest X-ray dataset develop a Deep Learning Model to classify X-rays of Healthy Vs Corona Positive Patients| &#9744; |
 
