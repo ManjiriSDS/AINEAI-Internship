@@ -9,5 +9,5 @@ VIPAINEAI
 | | **INTERMEDIATE** | 
 | 3 | Statistical Analysis & Hypothesis Testing | <ul><li> Increasing YoY revenue from game purchase by increasing retention rate gamers </li> | What recommendations can you suggest increasing in-game purchase and retaining the players? | &#9745; |
 | | **ADVANCED** | 
-| 4 | Machine Learning for Predictive Analysis | <ul><li> Reducing Monthly Churn by identifying high risk customers well in advance. </li> | Build a classification Model to predict churners one month in advance| &#9745; |
+| 4 | Machine Learning for Predictive Analysis | <ul><li> Reducing Monthly Churn by identifying high risk customers well in advance. </li> | Build a classification Model to predict churners one month in advance| &#9744; |
 
