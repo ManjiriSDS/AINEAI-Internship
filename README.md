@@ -1,4 +1,4 @@
-# 🌐 Aine AI Internship
+<h1 align="left"> <img src= "https://github.com/ManjiriSDS/VIPAINEAI/blob/a31804f75c4ef840d9b2f2bcf26bf9e43fea4a2b/Project%203/images.jpg" width="40px"> AINE AI INTERNSHIP </h1> 
 
 ## 🛠️ Project Overview
 During the internship, I worked on several projects that focused on:
