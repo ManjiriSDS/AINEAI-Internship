@@ -8,7 +8,8 @@ VIPAINEAI
 | 2 | Essential of Python Programming | <ul><li> The project leverages the basic concept of Python programming  such as variable data types, loops and conditional statements to develop the game of Rock, Paper and Scissors </li> | Write a Python program to develop a Rock, Papers and Scissors game to be played against a computer.|&#9745; |
 | | **INTERMEDIATE** | 
 | 3 | Statistical Analysis & Hypothesis Testing | <ul><li> Increasing YoY revenue from game purchase by increasing retention rate gamers </li> | What recommendations can you suggest increasing in-game purchase and retaining the players? | &#9745; |
+| 4 | Data Reporting and Analysis with T-SQL | <ul><li> Product sales performance analysis using T-SQL </li> | Summarize the sales of Adventure Works Cycles with respect to product characteristics, promotion cost and customer demographics.| &#9745; |
 | | **ADVANCED** | 
-| 4 | Machine Learning for Predictive Analysis | <ul><li> Reducing Monthly Churn by identifying high risk customers well in advance. </li> | Build a classification Model to predict churners one month in advance.| &#9744; |
-| 5 | Image Classification Using Deep Learning | <ul><li> Classifying Covid-19 Positive and negative patient from X-ray images. </li> | With the Chest X-ray dataset develop a Deep Learning Model to classify X-rays of Healthy Vs Corona Positive Patients| &#9744; |
+| 5 | Machine Learning for Predictive Analysis | <ul><li> Reducing Monthly Churn by identifying high risk customers well in advance. </li> | Build a classification Model to predict churners one month in advance.| &#9744; |
+| 6 | Image Classification Using Deep Learning | <ul><li> Classifying Covid-19 Positive and negative patient from X-ray images. </li> | With the Chest X-ray dataset develop a Deep Learning Model to classify X-rays of Healthy Vs Corona Positive Patients| &#9744; |
 
